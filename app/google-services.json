@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317667146041",
+    "project_id": "proyecto-1895f",
+    "storage_bucket": "proyecto-1895f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317667146041:android:07b15f96943f83b082d0e8",
+        "android_client_info": {
+          "package_name": "car.copernic.pcanton.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317667146041-5rfpshvkmnrc7t2ocer9shr5nnp98fut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1FRJ3zgSFzCic7imjq0BIREKZRryAIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317667146041-5rfpshvkmnrc7t2ocer9shr5nnp98fut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
